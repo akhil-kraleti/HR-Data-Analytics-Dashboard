@@ -96,18 +96,6 @@ Provides:
 
 ---
 
-## 📷 Dashboard Screenshots
-
-### Workforce Overview
-
-![Workforce Overview](images/dashboard_page1.png)
-
-### Country-wise Analysis
-
-![Country Analysis](HR Analytics Dashboard Page 2.png)
-
----
-
 ## 📊 KPIs Used
 
 | KPI | Description |
