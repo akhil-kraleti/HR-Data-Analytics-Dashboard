@@ -104,9 +104,7 @@ Provides:
 
 ### Country-wise Analysis
 
-![Country Analysis](images/dashboard_page2.png)
-
-> Replace the image paths above with your actual screenshot locations inside the repository.
+![Country Analysis](HR Analytics Dashboard Page 2.png)
 
 ---
 
